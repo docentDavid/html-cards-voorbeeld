@@ -1,0 +1,20 @@
+How to Create a Card Layout Using CSS Grid Layout
+https://wpengine.com/resources/card-layout-css-grid-layout-how-to/
+
+Example code:
+https://codepen.io/abbeyjfitzgerald/pen/QaeoYj
+
+The JavaScript Concepts You Should Know Before Learning React
+https://www.freecodecamp.org/news/javascript-concepts-you-should-know-before-learning-react/
+
+Learn React 18 with Redux Toolkit
+https://www.freecodecamp.org/news/learn-react-18-with-redux-toolkit/
+
+JSON formatter
+https://jsonformatter.org/
+
+Host images
+https://imgbox.com/
+
+Course APIs
+https://course-api.com/

@@ -1,0 +1,9 @@
+{
+  "name": "html-cards-voorbeeld",
+  "version": "1.0.0",
+  "description": "HTML en CSS Grid cards",
+  "main": "index.html",
+  "author": "David Schol",
+  "license": "MIT",
+  "cards-source": "https://codepen.io/abbeyjfitzgerald/pen/QaeoYj"
+}
